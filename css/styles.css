@@ -1,0 +1,52 @@
+.header{
+    text-align: right;
+}
+h1{
+    
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#home{
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuzCJuXy9Qwt3kPmTQn6V44WX4-7OS5NXqlg&usqp=CAU");
+    text-align: center;
+} 
+.about{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    
+}
+.services{
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+h4{
+    text-align: center;
+}
+.gallary{
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 40px;
+    height: 100vh;
+    width: 80%;
+}
+#social > img{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    margin: 0.5px;
+}
+h6{
+    text-align: left;
+    font-weight: bolder;
+    font-size: medium;
+}
+body{
+    background-color: gray;
+}
